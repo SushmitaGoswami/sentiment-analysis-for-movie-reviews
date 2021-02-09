@@ -9,10 +9,10 @@ To serve it on a web page, it is being configured and called from a AWS Lambda s
 Following are some of the sample result based on some sample moview reviews.
 
 ### Positive review
-![Alt text](src/images/positive.png?raw=true "positive review")
+![Alt text](src/images/positive.PNG?raw=true "positive review")
 
 ### Negative review
-![Alt text](src/images/negative.png?raw=true "negative review")
+![Alt text](src/images/negative.PNG?raw=true "negative review")
 
 # Technology Used
 - Python Frameworks (NumPy, Pytorch, OpenCV, Matplotlib, etc.)
