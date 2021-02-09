@@ -14,5 +14,10 @@ Following are some of the sample result based on some sample moview reviews.
 ### Negative review
 ![Alt text](src/images/negative.png?raw=true "negative review")
 
+# Technology Used
+- Python Frameworks (NumPy, Pytorch, OpenCV, Matplotlib, etc.)
+- Long short-term memory
+- Amazon Services (AWS SageMaker, Amazon API Gateway, AWS Lamda, Amazon S3, XGBoost notebook)
+
 
 
